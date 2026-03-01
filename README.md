@@ -75,7 +75,7 @@ recursion, complexity analysis, and problem-solving strategies.
 
 ## Technologies Used
 
-Language: (C / C++ / Java / Python – change to yours)
+Language: C++
 
 ---
 
